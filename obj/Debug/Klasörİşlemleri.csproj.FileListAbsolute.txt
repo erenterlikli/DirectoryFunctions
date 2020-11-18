@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\Klasörİşlemleri\bin\Debug\Klasörİşlemleri.exe.config
+C:\Users\Eren\source\repos\Klasörİşlemleri\bin\Debug\Klasörİşlemleri.exe
+C:\Users\Eren\source\repos\Klasörİşlemleri\bin\Debug\Klasörİşlemleri.pdb
+C:\Users\Eren\source\repos\Klasörİşlemleri\obj\Debug\Klasörİşlemleri.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Klasörİşlemleri\obj\Debug\Klasörİşlemleri.Form1.resources
+C:\Users\Eren\source\repos\Klasörİşlemleri\obj\Debug\Klasörİşlemleri.Properties.Resources.resources
+C:\Users\Eren\source\repos\Klasörİşlemleri\obj\Debug\Klasörİşlemleri.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Klasörİşlemleri\obj\Debug\Klasörİşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Klasörİşlemleri\obj\Debug\Klasörİşlemleri.exe
+C:\Users\Eren\source\repos\Klasörİşlemleri\obj\Debug\Klasörİşlemleri.pdb
